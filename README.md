@@ -1,2 +1,2 @@
 # CSharp
-University projects using the C# language
+Fibonacci sequence
